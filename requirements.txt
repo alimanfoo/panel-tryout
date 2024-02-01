@@ -1,0 +1,3 @@
+malariagen_data
+panel
+hvplot
